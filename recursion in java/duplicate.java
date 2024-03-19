@@ -17,5 +17,5 @@ public class duplicate {
     }
 }
     public static void main(String[] args) {
-        largestElement([8,7,5,4,2], 5);f
+        largestElement([8,7,5,4,2], 5);
     }
